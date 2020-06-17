@@ -37,8 +37,8 @@ public class AccountingSync implements Runnable {
 
 
 /**
- *这里有两个实例,
- *每个实例都使得i,j加5
+ * 这里有两个实例,
+ * 每个实例都使得i,j加5
  * 最终输出结果:
  * i:10
  * j:10
